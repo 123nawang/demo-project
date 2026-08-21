@@ -1,0 +1,59 @@
+﻿* 4985eb2 Agent host session 12ef818f-38b3-4b78-a5a1-37eab508310f - turn 10
+| * d08530b Agent host session 12ef818f-38b3-4b78-a5a1-37eab508310f - turn 9
+|/  
+| * 85743db Agent host session 12ef818f-38b3-4b78-a5a1-37eab508310f - turn 8
+|/  
+| * 957d8e8 Agent host session 12ef818f-38b3-4b78-a5a1-37eab508310f - turn 7
+|/  
+| * a58e588 Agent host session 12ef818f-38b3-4b78-a5a1-37eab508310f - turn 6
+|/  
+| * 67c383f Agent host session 12ef818f-38b3-4b78-a5a1-37eab508310f - turn 5
+|/  
+| * db18e02 Agent host session 12ef818f-38b3-4b78-a5a1-37eab508310f - turn 4
+|/  
+| * 2afa4f3 Agent host session 12ef818f-38b3-4b78-a5a1-37eab508310f - turn 3
+| * a23a410 Agent host session 12ef818f-38b3-4b78-a5a1-37eab508310f - turn 2
+| * f5b54e1 Agent host session 12ef818f-38b3-4b78-a5a1-37eab508310f - turn 1
+|/  
+* a4f9879 Agent host session 12ef818f-38b3-4b78-a5a1-37eab508310f - baseline checkpoint
+* a13bba2 docs: add output/estimand.md template
+* fae76fb 静态
+* c07cb76 docs: 分支实操记录
+* c0135b3 Revert "temp: 故意提交的错误"
+* 724197f temp: 故意提交的错误
+* ac9df6b docs: 记录 Day 1 Git 实操
+* c9d64a5 init: 项目纳入版本控制
+* 3c72ce8 XiangZhang talk revision
+* 474f7be 深圳大学中国经济特区研究中心暑期AI讲座交流
+* bf013a1 北师大讲座版本更新测试
+* 82929c9 Revert "添加作者名字"
+* 5b38bd7 Revert "更改作者"
+| * 266107f Agent host session 0fa061a1-9cd3-4d2e-a043-bf29f3bb1a55 - baseline checkpoint
+| * fba6551 Agent host session 77efdce1-29f5-44fb-81f9-c498d471843a - turn 2
+| * 88ec431 Agent host session 77efdce1-29f5-44fb-81f9-c498d471843a - turn 1
+| * f361a13 Agent host session 77efdce1-29f5-44fb-81f9-c498d471843a - baseline checkpoint
+| * 5007195 Agent host session 58725c16-9f06-41aa-ab5d-fe0d4b722a09 - turn 1
+| * c704221 Agent host session 58725c16-9f06-41aa-ab5d-fe0d4b722a09 - baseline checkpoint
+| * b9e0d11 Agent host session e2846a4b-4675-44d0-b873-d28b479a6654 - baseline checkpoint
+| * 1ac1ce2 Agent host session c522d836-04a4-483e-835c-4c55a5b4b245 - turn 1
+| * 99bc702 Agent host session c522d836-04a4-483e-835c-4c55a5b4b245 - baseline checkpoint
+| * 0faf76f Agent host session de1129b5-3d0c-4203-8ae3-d1725af746c0 - turn 4
+| * 66f55a2 Agent host session de1129b5-3d0c-4203-8ae3-d1725af746c0 - turn 3
+| * a1f2b20 Agent host session de1129b5-3d0c-4203-8ae3-d1725af746c0 - turn 2
+| * c136a67 Agent host session de1129b5-3d0c-4203-8ae3-d1725af746c0 - turn 1
+| * 71a3061 Agent host session de1129b5-3d0c-4203-8ae3-d1725af746c0 - baseline checkpoint
+| * 6c1c091 Agent host session 1d50a6ce-3cad-413f-af4c-1be7b463adf9 - turn 1
+| * c29aaad Agent host session 1d50a6ce-3cad-413f-af4c-1be7b463adf9 - baseline checkpoint
+| * 2631e3c On main: 临时暂存: 未提交的本地修改
+|/| 
+| * 83be21e index on main: 4d18cce 更改作者
+|/  
+* 4d18cce 更改作者
+* a857b06 添加作者名字
+* 86691ec 修改main_zh.tex文档中的引言
+* a70cf2b 修改标题
+* 35428d6 UIBE WTO institute
+* 5bb69b9 revision during lecturing
+* 5d7c126 CUFE-lecture version 1
+* 657310c demo-project initiation
+* ba49a1d init: add demo project
